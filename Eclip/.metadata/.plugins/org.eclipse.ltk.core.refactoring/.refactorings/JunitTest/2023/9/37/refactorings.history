@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.iplacex.JunitTest.AsignatuaTest.java&apos; to &apos;AsignaturaTest.java&apos;&#x0D;&#x0A;- Original project: &apos;JunitTest&apos;&#x0D;&#x0A;- Original element: &apos;com.iplacex.JunitTest.AsignatuaTest.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.iplacex.JunitTest.AsignaturaTest.java&apos;" description="Rename compilation unit &apos;AsignatuaTest.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.iplacex.JunitTest{AsignatuaTest.java" name="AsignaturaTest.java" references="false" stamp="1694373194958" version="1.0"/>
+</session>
